@@ -22,14 +22,17 @@ Raised **$83M** from PayPal, NorthZone, Placeholder, and more.
    - Press **F12** → Select the **Network** tab → Click on **Fetch/XHR**.
    - Press **F5** to reload the page.
    - Click on the **Session** function and copy the entire content of the **Cookie** section (refer to the image guide).
+
 4️⃣ Paste the cookie content into **dulieu.txt**:
    - Each account should be placed on a separate line.
+
 5️⃣ Add proxies corresponding to the number of accounts into **proxy.txt**:
    - Each proxy should be placed on a separate line.
    - Proxy format:
      ```
      http://username:password@host:port
      ```
+
 6️⃣ Run **bot.exe**.
 
 ---
